@@ -3,7 +3,7 @@
 namespace Sample
 {
     
-    // program wham 3333333333333333333333
+    // program wham 333333333333333333333
     
     class Program
     {
