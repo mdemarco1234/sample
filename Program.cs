@@ -12,7 +12,7 @@ namespace Sample
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Hello World! Jesus Jesus Jesus Jesus");
+            Console.WriteLine("Hello World! Jesus Jesus Jesus Jesus Jesus");
             
             Console.WriteLine("Hello World! Jesus Jesus Jesus Jesus Jesus");
             
