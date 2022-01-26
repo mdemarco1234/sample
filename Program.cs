@@ -10,7 +10,7 @@ namespace Sample
        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Jesus is God");
+            Console.WriteLine("Hello World! Jesus is God No QUestions");
 
             Console.WriteLine("Hello World! Jesus Jesus Jesus Jesus Jesus");
             
